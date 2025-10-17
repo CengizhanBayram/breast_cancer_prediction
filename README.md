@@ -6,6 +6,7 @@ Built with **PyTorch** and **torchvision** (EfficientNetV2-S), designed to run *
 > **Validation results:** AUC ≈ **0.954**, ACC ≈ **0.842**, F1 ≈ **0.795** (with TTA AUC ≈ **0.955**)
 
 ---
+![Uploading image.png…]()
 
 ## ✨ Features
 - ✅ **Colab-first**: single notebook, minimal dependencies
