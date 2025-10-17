@@ -199,3 +199,15 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+---
+
+## ⚠️ Notes
+- This project targets **research/prototyping**; **not** for clinical use.
+- CBIS-DDSM license/terms apply. Please respect dataset policies.
+
+---
+
+## 🙌 Acknowledgements
+- Dataset: **CBIS-DDSM** (Kaggle distribution by community)
+- PyTorch / TorchVision teams and open-source contributors
