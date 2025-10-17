@@ -76,6 +76,4 @@ Built with **PyTorch** and **torchvision** (EfficientNetV2-S), designed to run *
 
 All installs are handled inside the notebook.
 
----
 
-## 🗂 Repo Layout (suggested)
