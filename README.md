@@ -62,6 +62,9 @@ Built with **PyTorch** and **torchvision** (EfficientNetV2-S), designed to run *
 
 > Threshold is tunable (we sweep 0.05–0.95 and store best-F1 threshold).
 
+<img width="1118" height="740" alt="image" src="https://github.com/user-attachments/assets/b8e4b5ff-8511-42b1-90d8-c98edf658edf" />
+
+
 ---
 
 ## 🛠 Requirements
